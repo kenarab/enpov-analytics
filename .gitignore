@@ -1,0 +1,19 @@
+# R 
+.Rproj.user
+.Rhistory
+.RData
+
+
+# specific
+R/conf/envop-personal-config.R
+
+# latex
+*.aux
+*.log
+*.mp
+*.synctex.gz
+*.toc
+*.nav
+*.out
+*.snm
+*.pdf
